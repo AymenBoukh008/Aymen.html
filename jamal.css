@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    background-color: blanchedalmond;
+
+}
+nav{
+    padding: 10px;
+    text-align: center;
+    background-color: brown;
+    }
+    a {
+        text-decoration: none;
+        color: white;
+        margin: 0 10px;
+        transition: all 0.5s;
+    }
+    a:hover {
+        color: blue;
+        font-size: 20px;
+        text-decoration: underline;
+    }
+
+.aymen{
+    display: inline;
+    margin: 0 30px;
+} 
+.ramoul{
+    text-align: center;
+    color: firebrick;
+    margin: 50px 0;
+}
+

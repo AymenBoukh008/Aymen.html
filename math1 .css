@@ -1,0 +1,13 @@
+.niu{
+    text-align: center;
+    color: blue;
+    transition: 0,5ms;
+}
+h1:hover{
+    color: red;
+    font-size: 50px
+    
+}
+body{
+background-color: lightgoldenrodyellow;
+}

@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(81, 14, 237);
+    text-align: center;
+    color: rgb(238, 10, 10);
+}
+a {
+    text-decoration: none;
+    color: rgb(227, 205, 11);
+    margin: 0 10px;
+    transition: all 0.5s;
+}
+a:hover {
+    color: rgba(249, 6, 128, 0.95);
+    font-size: 20px;
+    text-decoration: underline;
+}
+h1{
+    color: purple;
+    background-color: yellow;
+
+}
